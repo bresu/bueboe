@@ -6,7 +6,7 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 
-.idea/*
+.idea/**
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -41,10 +41,10 @@ auto-import.
 .idea/compiler.xml
 .idea/jarRepositories.xml
 .idea/modules.xml
- .idea/*.iml
- .idea/modules
- *.iml
- *.ipr
+.idea/*.iml
+.idea/modules
+*.iml
+*.ipr
 
 # CMake
 cmake-build-*/
